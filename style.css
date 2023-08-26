@@ -1,0 +1,126 @@
+@import url(http://fonts.googleapis.com/earlyaccess/thabit.css);
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/amiri.css);
+
+
+
+
+
+body
+{
+background-color:#D0D0D0;
+background-position : center;
+}
+
+h1{
+color:red;
+margin-right:5% ;
+font-size:150%;
+direction: rtl;
+text-align: right;
+font-family: hanimation,serif;
+}
+
+section {
+background : white;
+/*width:800px;*/
+margin-left:2%;
+margin-right:2%;
+margin-top:5%;
+}
+
+img{ 
+display:block; 
+width:auto; 
+margin-left:auto; 
+margin-right:auto;
+width:92%;
+height:92%;
+}
+
+
+.ip{ 
+display:block; 
+width:auto; 
+margin-left:auto; 
+margin-right:auto;
+width:92%;
+height:92%;
+}
+
+
+
+
+.tow{ 
+display:block; 
+width:auto; 
+margin-left:; 
+margin-right:;
+width:100%;
+height:100%;
+}
+
+
+.titre{
+font-size:100%;
+font-color: darkgray;
+margin-right:5%;
+text-align: right;
+direction: rtl;
+}
+
+.them{
+font-size:100%;
+color: #707070;
+margin-left:5%;
+margin-right:5%;
+text-align:justify;
+font-family: "Lucida Console", Courier, monospace,serif;
+direction: rtl;
+text-align: right;
+text-align: justify;
+}
+
+h3{
+direction: rtl;
+text-align:center;
+color:red;
+font-size:150%;
+font-family: hanimation,serif;
+}
+
+
+
+
+td {
+text-align: center;
+font-family: hanimation, serif;
+}
+
+th {
+text-align: center;
+font-family: hanimation, serif;
+}
+
+botons {
+display:block;
+margin-left: ;
+margin-right: ;
+width: auto;
+text-align: center;
+}
+
+a {
+text-align: right;
+font-family: hanimation, serif;
+}
+
+tab {
+display:block;
+margin-left: 5% ;
+margin-right: 5% ;
+
+}
+
+ 
